@@ -16,9 +16,9 @@
 
 | Model | Generate Music | Effect | time of genMusic | main tech|
 | ---- | ---- | ---- | ---- | ---- |
-| mustango <br> (text-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][1] <br> [2. Cute toy factory theme loop][2] <br> [3. Slow and emotional melody][3] <br> [4. Strong rhythm and energy][4] <br> [5. This is a new age piece. There is a flute playing... ][5]| | 10sec |
+| mustango <br> (text-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][1] <br> [2. Cute toy factory theme loop][2] <br> [3. Slow and emotional melody][3] <br> [4. Strong rhythm and energy][4] <br> [5. This is a new age piece. There is a flute playing... ][5]| 情感色彩变化丰富 | 10sec |
 | musicLDM <br> (text-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][6] <br> [2. Cute toy factory theme loop][7] <br> [3. Slow and emotional melody][8] <br> [4. Strong rhythm and energy][9] <br> [5. This is a new age piece. There is a flute playing... ][10] | | 10sec |
-| images-to-music | |
+| images-to-music | | ---- |---- | |
 | musicGen <br> (textAndMusic-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][11] <br> [2. MusicLDM_Strong rhythm and energy][12] <br> [3. mustango_Strong rhythm and energy][13] |
 
 
