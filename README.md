@@ -7,7 +7,7 @@
     3. images-to-music
     4. musicGen
 ### 选择几个不同风格的提示词作为文本
-    几种不同风格的提示词
+    七种不同风格、场景的提示词
     1. This is a new age piece. There is a flute playing the main melody with a lot of staccato notes. The rhythmic background consists of a medium tempo electronic drum beat with percussive elements all over the spectrum. There is a playful atmosphere to the piece. This piece can be used in the soundtrack of a children's TV show or an advertisement jingle
     2. Cute toy factory theme loop
     3. Slow and emotional melody
@@ -18,11 +18,11 @@
 
 | Model | Generate Music | Effect | time of genMusic | main tech|
 | ---- | ---- | ---- | ---- | ---- |
-| mustango <br> (text-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][1] <br> [2. Cute toy factory theme loop][2] <br> [3. Slow and emotional melody][3] <br> [4. Strong rhythm and energy][4] <br> [5. This is a new age piece. There is a flute playing... ][5]| 倾向于生成节奏欢快的乐曲 | 10sec |
-| musicLDM <br> (text-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][6] <br> [2. Cute toy factory theme loop][7] <br> [3. Slow and emotional melody][8] <br> [4. Strong rhythm and energy][9] <br> [5. This is a new age piece. There is a flute playing... ][10] | 能够生成多样化风格的音乐 | 10sec |
+| mustango <br> (text-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][1] <br> [2. Cute toy factory theme loop][2] <br> [3. Slow and emotional melody][3] <br> [4. Strong rhythm and energy][4] <br> [5. This is a new age piece. There is a flute playing... ][5]| 倾向于生成节奏欢快的乐曲，对于节奏缓慢的音乐效果不理想 | 10sec |
+| musicLDM <br> (text-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][6] <br> [2. Cute toy factory theme loop][7] <br> [3. Slow and emotional melody][8] <br> [4. Strong rhythm and energy][9] <br> [5. This is a new age piece. There is a flute playing... ][10] | 能够生成多样化风格的音乐，相较于上一个模型生成效果更加稳定 | 10sec |
 | images-to-music | 这一个单独在下一个模块中列出 |
 | musicGen <br> (textAndMusic-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][11] <br> [2. MusicLDM_Strong rhythm and energy][12] <br> [3. mustango_Strong rhythm and energy][13] |  | 15sec |
-| musicGen-large | [1. A tranquil piano melody with gentle strings and woodwinds, complemented by the sound of nature - bird songs and rustling leaves. The tempo is slow and soothing, with occasional crescendos that capture the majesty of the mountains][14] <br> [2. Strong rhythm and energy][15] <br> [3. lo-fi music with a soothing melody][16] |  | 29sec |  |
+| musicGen-large | [1. A tranquil piano melody with gentle strings and woodwinds, complemented by the sound of nature - bird songs and rustling leaves. The tempo is slow and soothing, with occasional crescendos that capture the majesty of the mountains][14] <br> [2. Strong rhythm and energy][15] <br> [3. lo-fi music with a soothing melody][16] | 生成效果最好，对于不同风格的音乐都很稳定，稳定且生成时长够长 | 29sec |  |
 
 ### image-to-music
 | images | Generate Music | Effect | time of genMusic | main tech|
