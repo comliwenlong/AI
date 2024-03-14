@@ -18,11 +18,11 @@
 
 | Model | Generate Music | Effect | time of genMusic | main tech|
 | ---- | ---- | ---- | ---- | ---- |
-| mustango <br> (text-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][1] <br> [2. Cute toy factory theme loop][2] <br> [3. Slow and emotional melody][3] <br> [4. Strong rhythm and energy][4] <br> [5. This is a new age piece. There is a flute playing... ][5]| 倾向于生成节奏欢快的乐曲，对于节奏缓慢的音乐效果不理想 | 10sec |
-| musicLDM <br> (text-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][6] <br> [2. Cute toy factory theme loop][7] <br> [3. Slow and emotional melody][8] <br> [4. Strong rhythm and energy][9] <br> [5. This is a new age piece. There is a flute playing... ][10] | 能够生成多样化风格的音乐，相较于上一个模型生成效果更加稳定 | 10sec |
+| mustango <br> (text-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][1] <br> [2. Cute toy factory theme loop][2] <br> [3. Slow and emotional melody][3] <br> [4. Strong rhythm and energy][4] <br> [5. This is a new age piece. There is a flute playing... ][5] <br> [6. Liszt is the most important musician in the history of European music and one of the outstanding.][27] <br> [7. A tranquil piano melody with gentle strings and woodwinds, complemented by the sound of nature - bird songs and rustling leaves.][28]| 倾向于生成节奏欢快的乐曲，对于节奏缓慢的音乐效果不理想 | 10sec |
+| musicLDM <br> (text-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][6] <br> [2. Cute toy factory theme loop][7] <br> [3. Slow and emotional melody][8] <br> [4. Strong rhythm and energy][9] <br> [5. This is a new age piece. There is a flute playing... ][10] <br> [6. Liszt is the most important musician in the history of European music and one of the outstanding.][29] <br> [7. A tranquil piano melody with gentle strings and woodwinds, complemented by the sound of nature - bird songs and rustling leaves.][30] | 能够生成多样化风格的音乐，相较于上一个模型生成效果更加稳定 | 10sec |
 | images-to-music | 这一个单独在下一个模块中列出 |
-| musicGen <br> (textAndMusic-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][11] <br> [2. MusicLDM_Strong rhythm and energy][12] <br> [3. mustango_Strong rhythm and energy][13] |  | 15sec |
-| musicGen-large | [1. A tranquil piano melody with gentle strings and woodwinds, complemented by the sound of nature - bird songs and rustling leaves. The tempo is slow and soothing, with occasional crescendos that capture the majesty of the mountains][14] <br> [2. Strong rhythm and energy][15] <br> [3. lo-fi music with a soothing melody][16] | 生成效果最好，对于不同风格的音乐都很稳定，稳定且生成时长够长 | 29sec |  |
+| musicGen <br> (textAndMusic-to-music) | [1. An 80s driving pop song with heavy drums and synth pads in the background...][11] <br> [2. Cute toy factory theme loop][31] <br> [3. Slow and emotional melody][33] <br> [4. Strong rhythm and energy][34] <br> [5. This is a new age piece. There is a flute playing... ][35] <br> [6. Liszt is the most important musician in the history of European music and one of the outstanding.][32] <br> [7. A tranquil piano melody with gentle strings and woodwinds, complemented by the sound of nature - bird songs and rustling leaves.][14] |  | 15sec |
+| musicGen-large | [1. An 80s driving pop song with heavy drums and synth pads in the background...][15] <br> [2. Cute toy factory theme loop][16] <br> [3. Slow and emotional melody][36] <br> [4. Strong rhythm and energy][37] <br> [5. This is a new age piece. There is a flute playing... ][38] <br> [6. Liszt is the most important musician in the history of European music and one of the outstanding.][39] <br> [7. A tranquil piano melody with gentle strings and woodwinds, complemented by the sound of nature - bird songs and rustling leaves.][40] | 生成效果最好，对于不同风格的音乐都很稳定，稳定且生成时长够长 | 29sec |  |
 
 ### image-to-music
 | images | Generate Music | Effect | time of genMusic | main tech|
@@ -31,22 +31,43 @@
 |<img src="https://github.com/comliwenlong/AI/blob/main/genMusic/image-to-music/peacful%20nature/peaceful%20nature.jpeg" >| [1. MAGNet:A dramatic piano melody with crashing cymbals and ominous strings, building tension as the storm approaches][17] <br> [2. musicGen:A dramatic orchestral piece with ominous strings, crashing percussion, and a solitary woodwind melody, conveying a sense of foreboding and introspection as nature's wrath approaches][18] <br> [3. Riffusion:A haunting melody with ethereal strings and a mournful woodwind, building in intensity as the tempo quickens and thunderous percussion rolls in, evoking the ominous mood of a coming storm at sea][19] <br> [4. audioLDM-2: haunting melody played by a solo violin and cello, accompanied by soft piano chords and distant crashing waves, evokes a sense of introspection and melancholy in this moody scene][20] <br> [5. mustango:A brooding piano melody with ominous strings and gentle percussion, building in intensity as the storm approaches, capturing the raw emotions of introspection and vulnerability][21]|
 
 
-[1]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango_An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth%20pads%20in%20the%20background_10sec.wav
-[2]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango_Cute%20toy%20factory%20theme%20loop_10sec.wav
-[3]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango_Slow%20and%20emotional%20melody_10sec.wav
-[4]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango_Strong%20rhythm%20and%20energy_10sec.wav
-[5]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango_This%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20_10sec.wav
-[6]: https://github.com/comliwenlong/AI/blob/main/genMusic/MusicLDM_An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth%20pads%20in%20the%20background_10sec.wav
-[7]: https://github.com/comliwenlong/AI/blob/main/genMusic/MusicLDM_Cute%20toy%20factory%20theme%20loop_10sec.wav
-[8]: https://github.com/comliwenlong/AI/blob/main/genMusic/MusicLDM_Slow%20and%20emotional%20melody_10sec.wav
-[9]: https://github.com/comliwenlong/AI/blob/main/genMusic/MusicLDM_Strong%20rhythm%20and%20energy_10sec.wav
-[10]: https://github.com/comliwenlong/AI/blob/main/genMusic/MusicLDM_This%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20the%20main%20melody%20with%20a%20lot%20of%20staccato%20notes.%20The%20rhythmic%20background%20consists%20of%20a%20medium%20tempo%20electronic%20drum%20beat%20with%20percussive%20elements%20all%20over%20the%20spectrum.%20_10sec.wav
-[11]: https://github.com/comliwenlong/AI/blob/main/genMusic/MusicGen_An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth%20pads%20in%20the%20background_15sec.mp4
-[12]: https://github.com/comliwenlong/AI/blob/main/genMusic/MusicGen_MusicLDM_Strong%20rhythm%20and%20energy_15sec.mp4
-[13]: https://github.com/comliwenlong/AI/blob/main/genMusic/MusicGen_mustango_Strong%20rhythm%20and%20energy_15sec.mp4
-[14]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/musicgen_A%20tranquil%20piano%20melody%20with%20gentle%20strings%20and%20woodwinds%2C%20complemented%20by%20the%20sound%20of%20nature%20-%20bird%20songs%20and%20rustling%20leaves.%20The%20tempo%20is%20slow%20and%20soothing%2C%20with%20occasional%20crescendos%20that%20capture%20the%20majesty%20of%20the%20mountains.%20wav
-[15]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/musicgen_Strong%20rhythm%20and%20energy.wav
-[16]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/musicgen_lo-fi%20music%20with%20a%20soothing%20melody.wav
+[1]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth%20pads%20in%20the%20background_10sec.wav
+[2]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_Cute%20toy%20factory%20theme%20loop_10sec.wav
+[3]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_Slow%20and%20emotional%20melody_10sec.wav
+[4]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_Strong%20rhythm%20and%20energy_10sec.wav
+[5]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_This%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20_10sec.wav
+[27]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_Liszt%20is%20the%20most%20important%20musician%20in%20the%20histor.wav
+[28]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_A%20tranquil%20piano%20melody%20with%20gentle%20strings%20and%20wo.wav
+
+[6]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicLDM/MusicLDM_An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth%20pads%20in%20the%20background_10sec.wav
+[7]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicLDM/MusicLDM_Cute%20toy%20factory%20theme%20loop_10sec.wav
+[8]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicLDM/MusicLDM_Slow%20and%20emotional%20melody_10sec.wav
+[9]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicLDM/MusicLDM_Strong%20rhythm%20and%20energy_10sec.wav
+[10]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicLDM/MusicLDM_This%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20the%20main%20melody%20with%20a%20lot%20of%20staccato%20notes.%20The%20rhythmic%20background%20consists%20of%20a%20medium%20tempo%20electronic%20drum%20beat%20with%20percussive%20elements%20all%20over%20the%20spectrum.%20_10sec.wav
+[29]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicLDM/MusicLDM_Liszt%20is%20the%20most%20important%20musician%20in%20the%20history%20ofMusicLDM_%20European%20music%20and%20one%20of%20the%20outstanding%20representatives%20of%20the%20European%20Romantic%20School.%20He%20has%20his%20own%20unique%20style%20in%20terms%20of%20music%20creation%20and%20aesthetic%20characteristics.wav
+[30]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicLDM/MusicLDM_A%20tranquil%20piano%20melody%20with%20gentle%20strings%20and%20woodwinds%2C%20complemented%20by%20the%20sound%20of%20nature%20-%20bird%20songs%20and%20rustling%20leaves.%20The%20tempo%20is%20slow%20and%20soothing%2C%20with%20occasional%20crescendos%20that%20capture%20the%20majesty%20of%20the%20mountains.%20.wav
+
+[11]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth%20pads%20in%20the%20background_15sec.mp4
+[12]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_MusicLDM_Strong%20rhythm%20and%20energy_15sec.mp4
+[13]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_mustango_Strong%20rhythm%20and%20energy_15sec.mp4
+[14]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/musicGen-large/musicgen_A%20tranquil%20piano%20melody%20with%20gentle%20strings%20and%20woodwinds%2C%20complemented%20by%20the%20sound%20of%20nature%20-%20bird%20songs%20and%20rustling%20leaves.%20The%20tempo%20is%20slow%20and%20soothing%2C%20with%20occasional%20crescendos%20that%20capture%20the%20majesty%20of%20the%20mountains.%20wav
+[31]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_Cute%20toy%20factory%20theme%20loop.mp4
+[32]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_Liszt%20is%20the%20most%20important%20musician%20in%20the%20history%20of%20European%20music%20and%20one%20of%20the%20outstanding%20representatives%20of%20the%20European%20Romantic%20School.%20He%20has%20his%20own%20unique%20style%20in%20terms%20of%20music%20creation%20and%20aesthetic%20characteristics.mp4
+[33]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_Slow%20and%20emotional%20melody.mp4
+[34]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_Strong%20rhythm%20and%20energy.mp4
+[35]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_his%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20the%20main%20melody%20with%20a%20lot%20of%20staccato%20notes.%20The%20rhythmic%20background%20consists%20of%20a%20medium%20tempo%20electronic%20drum%20beat%20with%20percussive%20elements%20all%20over%20the%20spectrum.%20.mp4
+
+[15]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth%20pads%20in%20the%20background.wav
+[16]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/Cute%20toy%20factory%20theme%20loop.wav
+[36]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/Slow%20and%20emotional%20melody.wav
+[37]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/musicgen_Strong%20rhythm%20and%20energy.wav
+[38]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/This%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20the%20main%20melody%20with%20a%20lot%20of%20staccato%20notes.%20The%20rhythmic%20background%20consists%20of%20a%20medium%20tempo%20electronic%20drum%20beat%20with%20percussive%20elements%20all%20over%20the%20spectrum.%20There%20is%20a%20playful.wav
+[39]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/Liszt%20is%20the%20most%20important%20musician%20in%20the%20history%20of%20European%20music%20and%20one%20of%20the%20outstanding%20representatives%20of%20the%20European%20Romantic%20School..wav
+[40]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/musicgen_A%20tranquil%20piano%20melody%20with%20gentle%20strings%20and%20woodwinds%2C%20complemented%20by%20the%20sound%20of%20nature%20-%20bird%20songs%20and%20rustling%20leaves.%20The%20tempo%20is%20slow%20and%20soothing%2C%20with%20occasional%20crescendos%20that%20capture%20the%20majesty%20of%20the%20mountains.%20wav
+
+
+
+
 
 [17]: https://github.com/comliwenlong/AI/blob/main/genMusic/image-to-music/ocean%20poet/MAGNet_%22A%20dramatic%20piano%20melody%20with%20crashing%20cymbals%20and%20ominous%20strings%2C%20building%20tension%20as%20the%20storm%20approaches%22.wav
 [18]: https://github.com/comliwenlong/AI/blob/main/genMusic/image-to-music/ocean%20poet/MusicGen_ocean_poet_%22A%20dramatic%20orchestral%20piece%20with%20ominous%20strings%2C%20crashing%20percussion%2C%20and%20a%20solitary%20woodwind%20melody%2C%20conveying%20a%20sense%20of%20foreboding%20and%20introspection%20as%20nature's%20wrath%20approaches%22.wav
