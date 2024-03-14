@@ -57,13 +57,13 @@
 [34]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_Strong%20rhythm%20and%20energy.mp4
 [35]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_his%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20the%20main%20melody%20with%20a%20lot%20of%20staccato%20notes.%20The%20rhythmic%20background%20consists%20of%20a%20medium%20tempo%20electronic%20drum%20beat%20with%20percussive%20elements%20all%20over%20the%20spectrum.%20.mp4
 
-[15]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth%20pads%20in%20the%20background.wav
-[16]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/Cute%20toy%20factory%20theme%20loop.wav
-[36]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/Slow%20and%20emotional%20melody.wav
-[37]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/musicgen_Strong%20rhythm%20and%20energy.wav
-[38]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/This%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20the%20main%20melody%20with%20a%20lot%20of%20staccato%20notes.%20The%20rhythmic%20background%20consists%20of%20a%20medium%20tempo%20electronic%20drum%20beat%20with%20percussive%20elements%20all%20over%20the%20spectrum.%20There%20is%20a%20playful.wav
-[39]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/Liszt%20is%20the%20most%20important%20musician%20in%20the%20history%20of%20European%20music%20and%20one%20of%20the%20outstanding%20representatives%20of%20the%20European%20Romantic%20School..wav
-[40]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-large/musicgen_A%20tranquil%20piano%20melody%20with%20gentle%20strings%20and%20woodwinds%2C%20complemented%20by%20the%20sound%20of%20nature%20-%20bird%20songs%20and%20rustling%20leaves.%20The%20tempo%20is%20slow%20and%20soothing%2C%20with%20occasional%20crescendos%20that%20capture%20the%20majesty%20of%20the%20mountains.%20wav
+[15]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth%20pads%20in%20the%20background.wav
+[16]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/Cute%20toy%20factory%20theme%20loop.wav
+[36]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/Slow%20and%20emotional%20melody.wav
+[37]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/musicgen_Strong%20rhythm%20and%20energy.wav
+[38]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/This%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20the%20main%20melody%20with%20a%20lot%20of%20staccato%20notes.%20The%20rhythmic%20background%20consists%20of%20a%20medium%20tempo%20electronic%20drum%20beat%20with%20percussive%20elements%20all%20over%20the%20spectrum.%20There%20is%20a%20playful.wav
+[39]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/Liszt%20is%20the%20most%20important%20musician%20in%20the%20history%20of%20European%20music%20and%20one%20of%20the%20outstanding%20representatives%20of%20the%20European%20Romantic%20School..wav
+[40]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/musicgen_A%20tranquil%20piano%20melody%20with%20gentle%20strings%20and%20woodwinds%2C%20complemented%20by%20the%20sound%20of%20nature%20-%20bird%20songs%20and%20rustling%20leaves.%20The%20tempo%20is%20slow%20and%20soothing%2C%20with%20occasional%20crescendos%20that%20capture%20the%20majesty%20of%20the%20mountains.%20wav
 
 
 
