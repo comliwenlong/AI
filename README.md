@@ -31,13 +31,13 @@
 |<img src="https://github.com/comliwenlong/AI/blob/main/genMusic/image-to-music/peacful%20nature/peaceful%20nature.jpeg" >| [1. MAGNet:A dramatic piano melody with crashing cymbals and ominous strings, building tension as the storm approaches][17] <br> [2. musicGen:A dramatic orchestral piece with ominous strings, crashing percussion, and a solitary woodwind melody, conveying a sense of foreboding and introspection as nature's wrath approaches][18] <br> [3. Riffusion:A haunting melody with ethereal strings and a mournful woodwind, building in intensity as the tempo quickens and thunderous percussion rolls in, evoking the ominous mood of a coming storm at sea][19] <br> [4. audioLDM-2: haunting melody played by a solo violin and cello, accompanied by soft piano chords and distant crashing waves, evokes a sense of introspection and melancholy in this moody scene][20] <br> [5. mustango:A brooding piano melody with ominous strings and gentle percussion, building in intensity as the storm approaches, capturing the raw emotions of introspection and vulnerability][21]|
 
 
-[1]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth%20pads%20in%20the%20background_10sec.wav
-[2]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_Cute%20toy%20factory%20theme%20loop_10sec.wav
-[3]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_Slow%20and%20emotional%20melody_10sec.wav
-[4]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_Strong%20rhythm%20and%20energy_10sec.wav
-[5]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_This%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20_10sec.wav
-[27]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_Liszt%20is%20the%20most%20important%20musician%20in%20the%20histor.wav
-[28]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/mustango_A%20tranquil%20piano%20melody%20with%20gentle%20strings%20and%20wo.wav
+[1]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth.wav
+[2]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/Cute%20toy%20factory%20theme%20loop.wav
+[3]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/Slow%20and%20emotional%20melody.wav
+[4]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/Strong%20rhythm%20and%20energy.wav
+[5]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/This%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20.wav
+[27]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/Liszt%20is%20the%20most%20important%20musician%20in%20the%20histor.wav
+[28]: https://github.com/comliwenlong/AI/blob/main/genMusic/mustango/A%20tranquil%20piano%20melody%20with%20gentle%20strings%20and%20wo.wav
 
 [6]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicLDM/MusicLDM_An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth%20pads%20in%20the%20background_10sec.wav
 [7]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicLDM/MusicLDM_Cute%20toy%20factory%20theme%20loop_10sec.wav
