@@ -57,13 +57,13 @@
 [34]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_Strong%20rhythm%20and%20energy.mp4
 [35]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen/MusicGen_his%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20the%20main%20melody%20with%20a%20lot%20of%20staccato%20notes.%20The%20rhythmic%20background%20consists%20of%20a%20medium%20tempo%20electronic%20drum%20beat%20with%20percussive%20elements%20all%20over%20the%20spectrum.%20.mp4
 
-[15]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth.wav
-[16]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/Cute%20toy%20factory%20theme%20loop.wav
-[36]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/Slow%20and%20emotional%20melody.wav
-[37]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/Strong%20rhythm%20and%20energy.wav
-[38]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/This%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20.wav
-[39]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/Liszt%20is%20the%20most%20important%20musician%20in%20the%20histor.wav
-[40]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/A%20tranquil%20piano%20melody%20with%20gentle%20strings%20and%20wo.wav
+[15]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/An%2080s%20driving%20pop%20song%20with%20heavy%20drums%20and%20synth_stereo.wav
+[16]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/Cute%20toy%20factory%20theme%20loop_stereo.wav
+[36]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/Slow%20and%20emotional%20melody_stereo.wav
+[37]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/Strong%20rhythm%20and%20energy_stereo.wav
+[38]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/This%20is%20a%20new%20age%20piece.%20There%20is%20a%20flute%20playing%20_stereo.wav
+[39]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/Liszt%20is%20the%20most%20important%20musician%20in%20the%20histor_stereo.wav
+[40]: https://github.com/comliwenlong/AI/blob/main/genMusic/musicGen-Large/A%20tranquil%20piano%20melody%20with%20gentle%20strings%20and%20wo_stereo.wav
 
 
 
