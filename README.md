@@ -6,7 +6,7 @@
     2. [musicLDM][42]
     3. [images-to-music][43]
     4. [musicGen][44]
-    5. [musicGen-Large][45]https://huggingface.co/facebook/musicgen-large
+    5. [musicGen-Large](https://huggingface.co/facebook/musicgen-large)
 ### 选择几个不同风格的提示词作为文本
     七种不同风格、场景的提示词
     1. This is a new age piece. There is a flute playing the main melody with a lot of staccato notes. The rhythmic background consists of a medium tempo electronic drum beat with percussive elements all over the spectrum. There is a playful atmosphere to the piece. This piece can be used in the soundtrack of a children's TV show or an advertisement jingle
