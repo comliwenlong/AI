@@ -2,11 +2,11 @@
     文本、图片、音乐等都是一种信息传递的载体，其本身都是带有感情色彩。这种不同载体之间所表达的情感是相通。而音乐创作的本身是有难度的，他涉及到旋律、节拍等等。
 ##  工作内容: 对比几种开源text-to-music的效果
 ### 开源模型
-    1. [1. mustango][41]: 这是一种端到端的文本生成音乐的模型，根据提示语生成对应风格的音乐。该模型是基于diffusion构架
+    1. [mustango][41]: 这是一种端到端的文本生成音乐的模型，根据提示语生成对应风格的音乐。该模型是基于diffusion构架
     2. [musicLDM][42]
     3. [images-to-music][43]
     4. [musicGen][44]
-    5. [musicGen-Large][45]
+    5. [musicGen-Large][45]https://huggingface.co/facebook/musicgen-large
 ### 选择几个不同风格的提示词作为文本
     七种不同风格、场景的提示词
     1. This is a new age piece. There is a flute playing the main melody with a lot of staccato notes. The rhythmic background consists of a medium tempo electronic drum beat with percussive elements all over the spectrum. There is a playful atmosphere to the piece. This piece can be used in the soundtrack of a children's TV show or an advertisement jingle
