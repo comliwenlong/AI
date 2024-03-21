@@ -2,10 +2,11 @@
     文本、图片、音乐等都是一种信息传递的载体，其本身都是带有感情色彩。这种不同载体之间所表达的情感是相通。而音乐创作的本身是有难度的，他涉及到旋律、节拍等等。
 ##  工作内容: 对比几种开源text-to-music的效果
 ### 开源模型
-    1. mustango: 这是一种端到端的文本生成音乐的模型，根据提示语生成对应风格的音乐。该模型是基于diffusion构架
-    2. musicLDM
-    3. images-to-music
-    4. musicGen
+    1. [mustango][41]: 这是一种端到端的文本生成音乐的模型，根据提示语生成对应风格的音乐。该模型是基于diffusion构架
+    2. [musicLDM][42]
+    3. [images-to-music][43]
+    4. [musicGen][44]
+    5. [musicGen-Large][45]
 ### 选择几个不同风格的提示词作为文本
     七种不同风格、场景的提示词
     1. This is a new age piece. There is a flute playing the main melody with a lot of staccato notes. The rhythmic background consists of a medium tempo electronic drum beat with percussive elements all over the spectrum. There is a playful atmosphere to the piece. This piece can be used in the soundtrack of a children's TV show or an advertisement jingle
@@ -80,6 +81,24 @@
 [24]:https://github.com/comliwenlong/AI/blob/main/genMusic/image-to-music/peacful%20nature/Riffusion_%22A%20gentle%20piano%20melody%20with%20soft%20strings%20and%20woodwinds%2C%20accompanied%20by%20the%20soothing%20sound%20of%20a%20waterfall%20and%20bird%20song%2C%20creates%20a%20tranquil%20and%20peaceful%20ambiance%2C%20reminiscent%20of%20a%20serene%20mountain%20lake%20nestled%20in%20a%20lush%20forest%22.wav
 [25]:https://github.com/comliwenlong/AI/blob/main/genMusic/image-to-music/peacful%20nature/AudioLDM-2_%22A%20calming%20piano%20melody%20with%20gentle%20string%20harmonies%2C%20complemented%20by%20the%20tranquil%20sounds%20of%20bird%20chirps%20and%20flowing%20water%2C%20evoking%20a%20peaceful%20and%20serene%20atmosphere%20reminiscent%20of%20a%20tranquil%20mountain%20lake%22.wav
 [26]:https://github.com/comliwenlong/AI/blob/main/genMusic/image-to-music/peacful%20nature/mustango_%22A%20gentle%20piano%20melody%20with%20soft%20string%20harmonies%2C%20accompanied%20by%20the%20sound%20of%20bird%20calls%20and%20the%20gentle%20lapping%20of%20waves%2C%20creates%20a%20peaceful%20and%20serene%20atmosphere%20inspired%20by%20a%20tranquil%20lake%20surrounded%20by%20mountains%20and%20trees_10sec.wav
+
+
+[41]:https://github.com/AMAAI-Lab/mustango
+[42]:https://github.com/RetroCirce/MusicLDM
+[43]:https://huggingface.co/spaces/fffiloni/image-to-music-v2
+[44]:https://huggingface.co/spaces/facebook/MusicGen
+[45]:https://huggingface.co/facebook/musicgen-large
+
+
+
+
+
+
+
+
+
+
+
 
 
 
